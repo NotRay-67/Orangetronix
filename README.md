@@ -1,6 +1,7 @@
-# AeroHarvest
+# Orangetronix
 
-AeroHarvest is an innovative fruit-plucking drone project that leverages the power of deep learning and aerial technology to revolutionize the way we harvest fruits. The project aims to create a smart and efficient solution for identifying ripe fruits, plucking them from trees, and safely delivering them to a designated collection point.
+
+Orangetronix is an innovative fruit-plucking drone project that leverages the power of deep learning and aerial technology to revolutionize the way we harvest fruits. The project aims to create a smart and efficient solution for identifying ripe Oranges, plucking them from trees, and safely delivering them to a designated collection point.
 
 ## Features
 
