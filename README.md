@@ -1,6 +1,5 @@
 # Orangetronix
 
-
 Orangetronix is an innovative fruit-plucking drone project that leverages the power of deep learning and aerial technology to revolutionize the way we harvest fruits. The project aims to create a smart and efficient solution for identifying ripe Oranges, plucking them from trees, and safely delivering them to a designated collection point.
 
 ## Features
@@ -13,8 +12,10 @@ Orangetronix is an innovative fruit-plucking drone project that leverages the po
 
 ## Getting Started
 
-To get started with AeroHarvest, follow these steps:
+To get started with Orangetronix, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/AeroHarvest.git
+   git clone https://github.com/NotRay-67/Orangetronix/)https://github.com/NotRay-67/Orangetronix.git
+   ```
+   
